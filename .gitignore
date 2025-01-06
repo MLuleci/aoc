@@ -7,3 +7,4 @@ compiled/
 __pycache__/
 .vscode/
 a.out
+*.txt
