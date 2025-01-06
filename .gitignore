@@ -1,0 +1,9 @@
+.calva/
+.clj-kondo
+.joyride
+.lsp
+compiled/
+*.bak
+__pycache__/
+.vscode/
+a.out
